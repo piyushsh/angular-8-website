@@ -1,0 +1,9 @@
+.success
+{
+    color:green;
+    font-weight: bold;
+    margin: 10px 0px;
+    padding : 5px 10px;
+    border:1px solid;
+    background-color: gainsboro;
+}
